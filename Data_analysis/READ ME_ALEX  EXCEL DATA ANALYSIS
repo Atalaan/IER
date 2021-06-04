@@ -1,0 +1,40 @@
+Omron data set - Excel & Data Analysis Toolpak
+
+This README file explains the usage of the csv file in this repository with Excel. 
+
+Method:
+
+1. Open in Excel
+
+To open a csv file in Excel your computer needs to recognize comma's as separation markers:
+Go to the Windows Start Menu and click the Control Panel
+Go to the Regional and Language Options dialog box
+Click on the Regional Options tab
+Click on Additional settings
+Type a comma into the 'List separator' box (,)
+Click 'OK' to confirm the change
+
+2. Installing the Data Analysis Toolpak
+
+In this study we want to know the difference between 2019 and 2020. 
+To investigate this, we perform a t-test and ANOVA tests. 
+In this study we will use Excel, because it's a fast and reliable option for simple statistical problems. 
+To make use of Excel's standard included statistical calculation software, you need to enable the Data Analysis Toolpak add-in in the options menu.
+Go to the add-in tab and enable the Data Analysis Toolpak. 
+Excel should install this automatically now. With help of this feature all tests were done in this study.
+
+3. How to use the Data Analysis Toolpak
+
+To perform any of the tests with the help of the Analysis Toolpak:
+Go to the data tab in Excel and click on the button Data Analysis 
+A window should pop-up and now you have to select the desired statistical calculation you would like to use 
+Depending on which statistical calculation you choose, you will need to fill in necessary information such as which cells contain the data that needs to be processed. 
+The Analysis Toolpak then creates an output table with the results of the calculation. 
+These can be used to create graphs and make grounded conclusions.
+
+For more questions regarding the dataset, you can use this e-mail: A.T.A.Laan@student.tudelf.,nl
+Author: Alex Laan
+
+Project: Introduction to Engineering research
+
+Date: 04-06-2021
